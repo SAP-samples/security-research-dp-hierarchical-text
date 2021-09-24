@@ -76,8 +76,38 @@ The resulting experiment dictionary in the `logs` folder will contain several js
 The results can then be retrieved and plotted in a notebook, as we have done in [`notebooks/plots-dp.ipynb`](notebooks/plots-dp.ipynb).
 
 [BestBuy]: dph/projects/bestbuy/mia/experiment.py
-[Reuters]: dph/projects/reuters/mia/experiment.py 
+[Reuters]: dph/projects/reuters/mia/experiment.py
 [DBPedia]: dph/projects/dbpedia/mia/experiment.py
+
+### Contributors
+
+- Dominik Wunderlich
+- Daniel Bernau
+
+## Citations
+If you use this code in your research, please cite:
+
+```
+@article{WBA+21,
+      author    =   {Dominik Wunderlich and 
+                    Daniel Bernau and 
+                    Francesco Aldà and 
+                    Javier Parra-Arnau and 
+                    Thorsten Strufe},
+      title     =   {On the privacy-utility trade-off in differentially private hierarchical text classification}, 
+      eprint    =   {2103.02895},
+      archivePrefix={arXiv},
+      url       =   {http://arxiv.org/abs/2103.02913},
+}
+@article{BKG+21,
+}
+```
+
+## References
+[1] Dominik Wunderlich, Daniel Bernau, Francesco Aldà, Javier Parra-Arnau, Thorsten Strufe:
+On the privacy-utility trade-off in differentially private hierarchical text classification.
+arXiv:2103.02895
+http://arxiv.org/abs/2103.02913
 
 ## License
 
