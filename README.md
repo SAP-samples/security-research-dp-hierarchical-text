@@ -99,8 +99,6 @@ If you use this code in your research, please cite:
       archivePrefix={arXiv},
       url       =   {http://arxiv.org/abs/2103.02913},
 }
-@article{BKG+21,
-}
 ```
 
 ## References
