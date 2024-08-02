@@ -113,6 +113,10 @@ On the privacy-utility trade-off in differentially private hierarchical text cla
 arXiv:2103.02895
 http://arxiv.org/abs/2103.02913
 
+## Code of conduct
+
+See the [Code of conduct tab](https://github.com/SAP-samples/security-research-dp-hierarchical-text?tab=coc-ov-file).
+
 ## License
 
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache
